@@ -1,0 +1,2 @@
+source devel/setup.bash
+roslaunch laas_navigation morse_pr2_laas_adream_locate_nav.launch
